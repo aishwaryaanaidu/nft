@@ -1,5 +1,7 @@
 # Steps performed
 
+Repository link: https://github.com/aishwaryaanaidu/nft
+
 1. Created a flask app and ran it
 <img width="1435" alt="image" src="https://user-images.githubusercontent.com/38344621/201456759-cde6e238-9214-44bc-88a7-8e66df1e17bb.png">
 
